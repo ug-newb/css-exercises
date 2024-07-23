@@ -1,0 +1,23 @@
+#first,
+#second {
+    font-size: 30px;
+}
+
+#first {
+    background-color: #000000;
+    color: white;
+    border-radius: 0px;
+    border: 1px solid rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+}
+
+#second {
+    background-color: yellow;
+    color: black;
+    border-color: dimgray ;
+}
+
+#first:hover {
+    background-color: blue;
+    border-radius: 10px;
+}

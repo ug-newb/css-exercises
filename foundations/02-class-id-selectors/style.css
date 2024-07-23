@@ -1,0 +1,28 @@
+.first,
+.fourth{
+    color: black;
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#second {
+    color: blue;
+    font-size: 40px;
+}
+
+.cooler {
+    background-color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+#third {
+    background-color: palegreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* .fourth {
+    background-color: pink;
+
+} */
